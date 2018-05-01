@@ -1,0 +1,17 @@
+body{
+  background: light-grey
+}
+.content {
+  background: pink;
+}
+img {
+  border-radius: 30px;
+}
+
+.fixed {
+  width: 200px;
+}
+
+.container {
+  background: lime;
+}
